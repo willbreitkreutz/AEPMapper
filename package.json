@@ -1,0 +1,42 @@
+{
+  "name": "sharemap",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@corpsmap/corpsmap-bundles": "^1.9.7",
+    "@corpsmap/corpsmap-react-scripts": "3.0.2",
+    "@turf/turf": "^5.1.6",
+    "citysdk": "^2.1.4",
+    "classnames": "^2.2.6",
+    "lodash": "^4.17.19",
+    "mdi": "^2.2.43",
+    "money-clip": "^3.0.2",
+    "ol": "^5.3.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "redux-bundler": "^23.2.0",
+    "redux-bundler-react": "^1.2.0",
+    "xhr": "^2.5.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
