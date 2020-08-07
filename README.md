@@ -1,3 +1,3 @@
-###NSI front end
+# AEPMapper
 
-This project is a react and redux web front end to support the downloading and viewing of the National Structure Inventory
+This project is a react and redux web front end to support the downloading and viewing of Annual Exceedance Probability grids.
