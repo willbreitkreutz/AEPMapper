@@ -13,6 +13,7 @@ import './css/bootstrap/css/bootstrap.min.css';
 import './css/mapskin/css/mapskin.min.css';
 import './css/mdi/css/materialdesignicons.min.css';
 import './css/index.css';
+import "@corpsmap/corpsmap/css/corpsmap.css";
 
 // Activate the debug module if we're in dev mode
 if(process.env.NODE_ENV === 'development'){
@@ -37,4 +38,5 @@ cache.getAll().then((initialData) => {
   // unregister() to register() below. Note this comes with some pitfalls.
   // Learn more about service workers: https://bit.ly/CRA-PWA
   serviceWorker.unregister();
+
 })

@@ -3,11 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@corpsmap/corpsmap": "^0.1.0",
     "@corpsmap/corpsmap-bundles": "^1.9.7",
     "@corpsmap/corpsmap-react-scripts": "3.0.2",
     "@turf/turf": "^5.1.6",
     "citysdk": "^2.1.4",
     "classnames": "^2.2.6",
+    "latest": "^0.2.0",
     "lodash": "^4.17.19",
     "mdi": "^2.2.43",
     "money-clip": "^3.0.2",
